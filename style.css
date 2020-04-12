@@ -1,0 +1,30 @@
+.circle {
+  width: 20px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 50%;
+  border-color: black;
+  border-style: solid;
+  border-width: 0px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: linear 0.4s;
+}
+.info {
+  font-size: 5vh;
+  font-family: Arial;
+  text-align: center;
+}
+.position {
+  font-size: 4vh;
+  font-family: Arial;
+  text-align: center;
+}
+.bazgrol {
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+  position: absolute;
+}
